@@ -1,0 +1,58 @@
+{
+    personal: {
+        name: "",
+        email: "",
+        phone: "",
+        job: "",
+        address: "",
+    },
+    social_links: {
+        facebook:"",
+        instagram: "",
+        twitter: "",
+        linkedin: "",
+        github: "",
+    }
+    education: [
+        {
+            uuid: "",
+            school: "",
+            education: "",
+            start_date: "",
+            end_date: ""
+        },
+    ],
+    experiences: [
+        uuid: "",
+        company: "",
+        job: "",
+        year: "",
+        description: "",
+    ],
+    skills: {
+        frontEnd: [],
+        backEnd: [],
+        otherTools: [],
+        currentLearning: []
+    },
+    languages: [
+        {
+            name: "",
+            level: ""
+        }
+    ],
+    projects: [
+        {
+            uuid: "",
+            title: "",
+            about: "",
+            links: [
+                github: "",
+                demo: "",
+            ],
+            techstack: "",
+            specialFacts: [],
+        }
+    ],
+
+}
